@@ -46,7 +46,7 @@
 	</dependencies>
 	<build>
 		<plugins>
-			<plugin><!-- Include if you want to make an executable jar[FAT JAR which 
+			<plugin><!-- Include if you want to make an executable jar[FAT JAR which] 
 					includes all dependencies along with sprinboot loader] that you can run on 
 					command line using java -jar NAME -->
 				<!-- If you are not including it, result would be just a regular jar that you 
